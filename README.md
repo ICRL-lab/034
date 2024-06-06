@@ -1,6 +1,6 @@
 # Plant Disease Classification
 <p align="center">
-  <img src="pic.jpg" alt="Plant Disease Classification" width="200" height="200">
+  <img src="images/pic.jpg" alt="Plant Disease Classification" width="200" height="200">
 </p>
 
 ## Introduction:
@@ -38,3 +38,11 @@ There are some following preprocessing techniques used in this code:
 | CNN         | Conv2D + Dense Layers | Rescaling, Shear Range, Zoom Range, Horizontal Flip | Adam      | 0.001         | 25     | 0.8765 | Custom CNN model with data augmentation   |
 | ANN         | Dense Layers  | Rescaling              | Adam      | 0.001         | 25     | 0.5563  | Simple ANN model with flattened inputs      |
 | MobileNet   | Pre-trained MobileNet + Custom Dense Layers | Rescaling, Shear Range, Zoom Range, Horizontal Flip | Adam      | 0.001         | 25     | 0.9286  | Transfer learning using pre-trained MobileNet |
+
+<br>
+
+# Author
+**Hafiz Umer Daraz** <br>
+**Research Officer** <br>
+***Intelligent Criminology research lab (ICRL)*** <br>
+*AL-Khawarizmi Institute of Computer Science (KICS)* UET Lahore <br>
